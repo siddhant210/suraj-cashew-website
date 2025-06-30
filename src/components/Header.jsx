@@ -28,7 +28,7 @@ const Header = () => {
             </div>
             <div>
               <span className="text-lg md:text-2xl font-bold bg-gradient-to-r from-primary to-blue-600 bg-clip-text text-transparent">
-                Suraj Cashew
+                Kokan Kaju Udyog
               </span>
               <div className="text-xs text-muted-foreground font-medium hidden sm:block">Premium Quality from Ratnagiri</div>
             </div>
