@@ -10,6 +10,7 @@ import Paint from './components/Paint'
 import Contact from './components/Contact'
 import Cart from './components/Cart'
 import Checkout from './components/Checkout'
+import AdminOrders from "./components/AdminOrders"
 import './App.css'
 
 function App() {
@@ -28,6 +29,7 @@ function App() {
                 <Route path="/contact" element={<Contact />} />
                 <Route path="/cart" element={<Cart />} />
                 <Route path="/checkout" element={<Checkout />} />
+                <Route path="/admin" element={<AdminOrders />} />
               </Routes>
             </main>
             <Footer />
